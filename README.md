@@ -32,9 +32,9 @@ skills, create problem-solving abilities, and entrepreneurial mindset in a dynam
 
 Here are a few things I’ve worked on or am currently building:
 
-- 🔹 **Spell Checker** – Utilizes Trie Trees and Levenshtein's distance algorithm to spell check files.
-- 🔹 **3D Shape Transformer** – Utilizes core linear algebra concepts to represent 3D transformations on a 2D screen.
-- 🔹 **OCaml Interpreter** – Utilized OCaml and the Standard Library to create a basic interpreter with parsing, substitution, and evaluation.
+- 🔹 **[Spell Checker](https://github.com/cspannuth/Side-Projects/tree/main/Spell%20Checker)** – Utilizes Trie Trees and Levenshtein's distance algorithm to spell check files.
+- 🔹 **[3D Shape Transformer](https://github.com/cspannuth/Side-Projects/tree/main/3D%20Shape%20Transformer)** – Utilizes core linear algebra concepts to represent 3D transformations on a 2D screen.
+- 🔹 **[OCaml Interpreter](https://github.com/cspannuth/Side-Projects/tree/main/Basic%20OCaml%20Interpreter)** – Utilized OCaml and the Standard Library to create a basic interpreter with parsing, substitution, and evaluation.
 
 👉 Check out my repositories to see more!
 
