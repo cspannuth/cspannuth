@@ -21,9 +21,11 @@ skills, create problem-solving abilities, and entrepreneurial mindset in a dynam
 ## 🧠 Skills
 
 **Languages**
-- Python
 - Java
+- Python
 - C
+- JavaScript
+- HTML & CSS
 - OCaml
 
 ---
