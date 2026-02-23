@@ -13,21 +13,24 @@ skills, create problem-solving abilities, and entrepreneurial mindset in a dynam
 
 - 🎓 Currently a student studying **Computer Science**
 - 💻 Aspiring **Software Engineer**
-- 🌱 Learning **data structures, algorithms, and C++**
 - 🛠️ Interested in **backend, frontend, and system design**
 
 ---
 
-## 🧠 Skills
+## Tech Stack
 
 **Languages**
 - Java
-- Python
+- Python - NumPy & Pandas
 - C
-- JavaScript
+- JavaScript - React
 - HTML & CSS
 - OCaml
 
+**Frameworks**
+- FastAPI
+- Supabase (PostgreSQL)
+- Render
 ---
 
 ## 📂 Projects
@@ -35,8 +38,8 @@ skills, create problem-solving abilities, and entrepreneurial mindset in a dynam
 Here are a few things I’ve worked on or am currently building:
 
 - 🔹 **[Spell Checker](https://github.com/cspannuth/Side-Projects/tree/main/Spell%20Checker)** – Utilizes Trie Trees and Levenshtein's distance algorithm to spell check files.
-- 🔹 **[3D Shape Transformer](https://github.com/cspannuth/Side-Projects/tree/main/3D%20Shape%20Transformer)** – Utilizes core linear algebra concepts to represent 3D transformations on a 2D screen.
-- 🔹 **[OCaml Interpreter](https://github.com/cspannuth/Side-Projects/tree/main/Basic%20OCaml%20Interpreter)** – Utilized OCaml and the Standard Library to create a basic interpreter with parsing, substitution, and evaluation.
+- 🔹 **[Sportsbook Arbitrage Engine](https://github.com/cspannuth/Arbitrage_Engine)** – Utilizes several frameworks to create a live API that detects arbitrage betting opporunities.
+- 🔹 **[OCaml Interpreter](https://github.com/cspannuth/Side-Projects/tree/main/Basic%20OCaml%20Interpreter)** – Utilizes OCaml and the Standard Library to create a basic interpreter with parsing, substitution, and evaluation.
 
 👉 Check out my repositories to see more!
 
