@@ -28,9 +28,10 @@ skills, create problem-solving abilities, and entrepreneurial mindset in a dynam
 - OCaml
 
 **Frameworks**
-- FastAPI
-- Supabase (PostgreSQL)
+- FastAPI - RESTful API's
+- Supabase - (PostgreSQL)
 - Render
+- Docker
 ---
 
 ## 📂 Projects
