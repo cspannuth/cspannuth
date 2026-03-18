@@ -44,6 +44,7 @@ Here are a few things I’ve worked on or am currently building:
 ---
 
 ## 📫 Connect With Me
+- Personal Website: https://spannuth.org/
 - LinkedIn: www.linkedin.com/in/connorspannuth
 - Email: connorspannuth(at)gmail(dot)com
 
