@@ -1,6 +1,6 @@
 # Hi, I'm William Spannuth
 
-🎓 **Computer Science Major | Aspiring Software Engineer**
+**Computer Science Major | Data Science Minor**
 
 A dedicated computer science student at Boston University with a strong passion for technology. My experience ranges from 
 developing and testing automated bots to purchasing limited-edition sneakers during my youth to managing IT infrastructure 
@@ -30,7 +30,7 @@ skills, create problem-solving abilities, and entrepreneurial mindset in a dynam
 - Docker
 ---
 
-## 📂 Projects
+## Projects
 
 Here are a few things I’ve worked on or am currently building:
 
@@ -39,11 +39,11 @@ Here are a few things I’ve worked on or am currently building:
 - 🔹 **[Spell Checker](https://github.com/cspannuth/Side-Projects/tree/main/Spell%20Checker)** – Utilizes Trie Trees and Levenshtein's distance algorithm to spell check files.
 - 🔹 **[OCaml Interpreter](https://github.com/cspannuth/Side-Projects/tree/main/Basic%20OCaml%20Interpreter)** – Utilizes OCaml and the Standard Library to create a basic interpreter with parsing, substitution, and evaluation.
 
-👉 Check out my repositories to see more!
+Check out my repositories to see more!
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 - Personal Website: https://spannuth.org/
 - LinkedIn: www.linkedin.com/in/connorspannuth
 - Email: connorspannuth(at)gmail(dot)com
