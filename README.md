@@ -10,38 +10,48 @@ for numerous commercial clients. Currently working as a software engineer in the
 
 ## Tech Stack
 
-**Languages**
-- Java
+Languages
 - Python
-    - NumPy & Pandas
+- Java
 - C
-- JavaScript/TypeScript
-    - React
-    - Next.js
-    - 
-- HTML & CSS
-- OCaml
+- JavaScript / TypeScript
+- SQL
+- Go
 
-**Frameworks**
+Frontend
+- React
+- Next.js
+
+Backend & APIs
 - FastAPI
-    - RESTful API's
-- SQL Databases
-    - Supabase
-    - MongoDB
-- Data Caching
-    - Redis
-- Render
+- Node.js
+- REST APIs
+
+Databases & Caching
+- PostgreSQL
+- Redis
+- NoSQL Databases
+
+Tools & Infrastructure
+- Git
 - Docker
----
+- Linux
+- VPS Deployment
+- Software Testing
+
+Additional
+- Networking
+- Cybersecurity & Compliance
+- Agile / Scrum
 
 ## Projects
 
 Here are a few things I’ve worked on or am currently building:
 
+- **[AI MALWARE DETECTION ENGINE](https://github.com/cspannuth/Sentinel)** - Rust based malware detection engine utilizing SHA-256 Hashing, YARA-X signature matching, and an AI Powered classification pipeline
 - **[Sportsbook Arbitrage Engine](https://github.com/cspannuth/Arbitrage_Engine)** – Utilizes several frameworks to create a live API that detects arbitrage betting opporunities.
 - **[Sportsbook Arbitrage Frontend](https://github.com/cspannuth/Arbitrage_Frontend)** - Incorporates the backend engine to display a react-based UI to interact with my live API.
 - **[VenderLo - E-Commerce](https://github.com/cspannuth/VenderLo)** – A local marketplace application to buy and sell within your community.
-- **[Spell Checker](https://github.com/cspannuth/Side-Projects/tree/main/Spell%20Checker)** – Utilizes Trie Trees and Levenshtein's distance algorithm to spell check files.
 
 Check out my repositories to see more!
 
