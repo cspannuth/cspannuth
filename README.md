@@ -48,7 +48,7 @@ Additional
 
 Here are a few things I’ve worked on or am currently building:
 
-- **[AI MALWARE DETECTION ENGINE](https://github.com/cspannuth/Sentinel)** - Rust based malware detection engine utilizing SHA-256 Hashing, YARA-X signature matching, and an AI Powered classification pipeline
+- **[AI SQL Engine](https://github.com/cspannuth/AI-SQL-Engine)** - AI skill agents built upon a custom SQL parser to return, modify, and visualize data without ever typing a single query.
 - **[Sportsbook Arbitrage Engine](https://github.com/cspannuth/Arbitrage_Engine)** – Utilizes several frameworks to create a live API that detects arbitrage betting opporunities.
 - **[Sportsbook Arbitrage Frontend](https://github.com/cspannuth/Arbitrage_Frontend)** - Incorporates the backend engine to display a react-based UI to interact with my live API.
 - **[VenderLo - E-Commerce](https://github.com/cspannuth/VenderLo)** – A local marketplace application to buy and sell within your community.
