@@ -117,15 +117,3 @@ A full-stack local marketplace application for buying and selling products withi
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-161B22?style=for-the-badge&logo=openai&logoColor=white)
 
 </div>
-
----
-
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=cspannuth&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&include_all_commits=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cspannuth&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
-
-</div>
